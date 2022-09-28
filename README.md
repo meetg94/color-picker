@@ -1,4 +1,4 @@
-#Color Picker App
+# Color Picker App
 An application used to toggle between various background colors.
 
 # Getting Started with Create React App
